@@ -1,0 +1,51 @@
+.heading{
+  background-color: rgb(170,170,170);
+  height: 50px;
+  width: 500px;
+}
+.heading h1{
+  color: white;
+  text-align: left;
+  padding-left: 20px;
+}
+.infos{
+  width: 500px;
+  height: auto;
+  background-color: rgb(238,241,243);
+}
+.cal{
+  text-align: left;
+  padding: 10px 30px;
+}
+label{
+  display: block;
+  padding: 10px 0;
+  font-size: 18px;
+}
+.inp input{
+  width: 95%;
+  height: 35px;
+  font-size: 16px;
+  border-color: rgb(170,170,170);
+}
+.btn{
+  text-align: center;
+  padding: 15px 0;
+}
+button{
+  margin-top: 10px;
+  padding: 5px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(20, 20, 20);
+  background-color: rgb(226, 232, 110);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.info_table{
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
